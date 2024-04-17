@@ -39,6 +39,6 @@ public class App {
         double b = a;
         //Mammal m = (Mammal) dog3;
 
-
+        Owczarek owczarek = new Owczarek();
     }
 }
